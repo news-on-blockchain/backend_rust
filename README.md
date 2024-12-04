@@ -1,10 +1,8 @@
-# actix-todo ![Build Status](https://github.com/nemesiscodex/actix-todo/workflows/tests/badge.svg)
-Simple TODO list API made in rust
-
 ## Requirements
 - Rust
 - Docker
 - docker-compose
+- docker postgres image
 
 ## Usage
 ```bash
